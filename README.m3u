@@ -1,0 +1,30 @@
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,ALJAZEERA TV ARABIC #EXTVLCOPT:program=1 https://feed.play.mv/live/1009/3Oe7G2E3rU/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,SONY ENTERTAINMENT HD #EXTVLCOPT:program=1 https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,SONY MAX HD #EXTVLCOPT:program=1 https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,SONY PIX HD #EXTVLCOPT:program=1 https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
+ #EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,HUM HD #EXTVLCOPT:program=1 https://feed.play.mv/live/1009/h5T18oYbas/master.m3u8
+ #EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,HUM MASALA #EXTVLCOPT:program=1 https://feed.play.mv/live/1009/uRdwlkNe1U/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,SAB TV #EXTVLCOPT:program=1 https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,GEM TV #EXTVLCOPT:program=1 https://feed.play.mv/live/1009/agmwLb8LUD/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,ZEE TV #EXTVLCOPT:program=1 https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,ZEE CINEMA #EXTVLCOPT:program=1 https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,B4U MUSIC #EXTVLCOPT:program=1 https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,CRIME INVESTIGATION #EXTVLCOPT:program=1 https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,HITS HD #EXTVLCOPT:program=1 https://feed.play.mv/live/1009/Lvcls9NpJT/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,HITS MOVIES HD #EXTVLCOPT:program=1 https://feed.play.mv/live/1009/OD8M4673DS/master.m3u8 #EXTM3U 
+#EXTVLCOPT--http-reconnect=true #EXTINF:-1,COLOURS HD #EXTVLCOPT:program=1 https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,CINEPLEX HD #EXTVLCOPT:program=1 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
+ #EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,CINEMA EUROPE HD #EXTVLCOPT:program=1 https://feed.play.mv/live/10005200/Ts9R8pNNTP/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,&TV HD #EXTVLCOPT:program=1 https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,ANIMAX HD #EXTVLCOPT:program=1 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,SMITHSONIAN CHANNEL HD #EXTVLCOPT:program=1 https://feed.play.mv/live/1009/Ffcnij939j/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,BBC EARTH HD #EXTVLCOPT:program=1 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,DA-VINCCI KIDS #EXTVLCOPT:program=1 https://feed.play.mv/live/1009/V5eGkRT3A1/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,KBS WORLD HD #EXTVLCOPT:program=1 https://feed.play.mv/live/10005200/s73XpKBMaR/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,FASHION TV HD #EXTVLCOPT:program=1 https://feed.play.mv/live/10005200/tK5q6sJXFy/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,TVN HD #EXTVLCOPT:program=1 https://feed.play.mv/live/10005200/lyQmMBq377/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,TLC HD #EXTVLCOPT:program=1 https://feed.play.mv/live/10005200/HE8qFtMl9Q/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,PARAMOUNT CHANNEL HD #EXTVLCOPT:program=1 https://feed.play.mv/live/10005200/zC2aLVTjgF/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,MARVEL HQ #EXTVLCOPT:program=1 https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8 
+#EXTM3U #EXTVLCOPT--http-reconnect=true #EXTINF:-1,DISNEP JUNIOR #EXTVLCOPT:program=1 https://feed.play.mv/live/10005200/o6Yy0uDh9t/master.m3u8
+ #EXTM3U
